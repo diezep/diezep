@@ -1,15 +1,15 @@
-### Diezep.about() 👋
+### var diezep = new Diezep() 👋
 
-## 💬 About
+## 💬 diezep.about
   I'm a student of engineering in computer science at the Universidad de Guadalajara.. Currently working in personal projects and learning all i can about programming technologies.
   
-## ⚡ Lenguages
+## ⚡ diezep.lenguages
   - Python
   - Javascript
   - C++
   - Java
   - C#
-## 🌱 Currently learning 
+## 🌱 diezep.currentlyLearning 
   Discord bots with Discordpy package.
   <!--
 You can check my progress in (Searcher-bot)[google.com] repository
