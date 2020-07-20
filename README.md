@@ -11,7 +11,8 @@
   - C#
 ## 🌱 diezep.currentlyLearning 
   Discord bots with Discordpy package.
-  [Searcher Bot](htttps://github.com/diezep/searcher-bot/)
+  
+  [Searcher Bot](htttps://github.com/diezep/searcher-bot)
   
   
   <!--
