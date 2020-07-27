@@ -12,7 +12,7 @@
 ## 🌱 diezep.currentlyLearning 
   Shell script and developing heroku builpacks. 
   
-  [Flutter buildpack for Heroku](htttps://github.com/diezep/heroku-buildpack-flutter)
+  Flutter buildpack for Heroku ( htttps://github.com/diezep/heroku-buildpack-flutter )
   
   
   <!--
