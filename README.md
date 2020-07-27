@@ -10,9 +10,9 @@
   - Java
   - C#
 ## 🌱 diezep.currentlyLearning 
-  Discord bots with Discordpy package.
+  Shell script and developing heroku builpacks. 
   
-  [Searcher Bot](htttps://github.com/diezep/searcher-bot)
+  [Flutter buildpack for Heroku](htttps://github.com/diezep/heroku-buildpack-flutter)
   
   
   <!--
