@@ -1,4 +1,4 @@
-### var diezep = new Diezep() 👋
+## var diezep = new Diezep() 👋
 
 ### 💬 diezep.about
   I'm a student of engineering in computer science at the Universidad de Guadalajara.. Currently working in personal projects and learning all i can about programming technologies.
