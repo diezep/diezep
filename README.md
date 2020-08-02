@@ -4,11 +4,16 @@
   I'm a student of engineering in computer science at the Universidad de Guadalajara.. Currently working in personal projects and learning all i can about programming technologies.
   
 ### ⚡ diezep.lenguages
+  - Dart
   - Python
   - Javascript
   - C++
   - Java
   - C#
+  
+### ⚡ diezep.frameworks
+  - Flutter
+  
 ### 🌱 diezep.currentlyLearning 
   Shell script and developing heroku builpacks. 
   
