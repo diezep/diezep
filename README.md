@@ -20,7 +20,7 @@
   Flutter buildpack for Heroku ( htttps://github.com/diezep/heroku-buildpack-flutter )
   
 ### 😝 diezep.funFact
-  Cold Coffe > Hot Coffe <!-- Nothing to discuss here -->
+  Cold Coffee > Hot Coffee <!-- Nothing to discuss here -->
   <!--
 You can check my progress in (Searcher-bot)[google.com] repository
 
