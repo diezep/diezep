@@ -15,9 +15,7 @@
   - Flutter
   
 ### 🌱 diezep.currentlyLearning 
-  Shell script and developing heroku builpacks. 
-  
-  Flutter buildpack for Heroku ( htttps://github.com/diezep/heroku-buildpack-flutter )
+  Manage and control Spotify API for hobby projects.  
   
 ### 😝 diezep.funFact
   Cold Coffee > Hot Coffee <!-- Nothing to discuss here -->
