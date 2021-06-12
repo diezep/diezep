@@ -14,9 +14,6 @@
 ### ⚡ diezep.frameworks
   - Flutter
   
-### 🌱 diezep.currentlyLearning 
-  Manage and control Spotify API for hobby projects.  
-  
 ### 😝 diezep.funFact
   Cold Coffee > Hot Coffee <!-- Nothing to discuss here -->
   <!--
