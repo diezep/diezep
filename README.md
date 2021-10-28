@@ -13,6 +13,7 @@
   
 ### ⚡ diezep.frameworks
   - Flutter
+  - React
   
 ### 😝 diezep.funFact
   Cold Coffee > Hot Coffee <!-- Nothing to discuss here -->
