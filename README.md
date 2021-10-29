@@ -1,15 +1,7 @@
 ## var diezep = new Diezep() 👋
 
 ### 💬 diezep.about
-  I'm a student of engineering in computer science at the Universidad de Guadalajara.. Currently working in personal projects and learning all i can about programming technologies.
-  
-### ⚡ diezep.lenguages
-  - Dart
-  - Python
-  - Javascript
-  - C++
-  - Java
-  - C#
+  Hello, my name is Diego Zepeda, I'm a student at the University of Guadalajara, and I am studying Computer Science. I like to be a developer when i can solve problems being a developer. I like to improve my skills everyday learning new things to be prepared for anything.
   
 ### ⚡ diezep.frameworks
   - Flutter
@@ -17,16 +9,10 @@
   
 ### 😝 diezep.funFact
   Cold Coffee > Hot Coffee <!-- Nothing to discuss here -->
-  <!--
-You can check my progress in (Searcher-bot)[google.com] repository
 
-**diezep/diezep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+### 🆒 diezep.stats
+<div>
+  <a href="https://github.com/diezep">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diezep&count_private=true&theme=graywhite&show_icons=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diezep&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
